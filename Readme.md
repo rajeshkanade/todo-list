@@ -67,5 +67,5 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 
 ### Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/codescalper/mern-todo/issues) on the repository.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/rajeshkanade/todo-list/issues) on the repository.
 
