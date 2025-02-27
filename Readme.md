@@ -40,17 +40,17 @@ Follow these instructions to set up and run the project on your local machine.
    ```
  ### Usage
 
-3.  Start the server:
+3.  Start the backend:
 	   ```bash
 	cd server
-	npm start
+	npm index.js
 	   ```
 	   The server will run at `http://localhost:3000`.
 	   
 4. Start the client:
 	```bash
 	cd client
-	npm start
+	npm run dev
 	```
 	
 	The frontend will run at `http://localhost:5173`.
